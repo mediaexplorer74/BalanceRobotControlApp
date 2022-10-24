@@ -6,7 +6,7 @@ BalanceRobotControl UWP App. Some Balancing Robot Controller. RnD only.
 ![Shot 1](Images/shot1.png)
 
 ## Features / Tech details
-- Blueotooth support
+- Bluetooth support
 - Min. win os. build : 14393
 - bluetoothName = "RNBT-6DD3"
 
