@@ -13,7 +13,7 @@
   <Identity
     Name="BalanceRobotControlAppV1"
     Publisher="CN=media"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="50e208eb-dd80-4519-a667-41cd4078a4f3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
