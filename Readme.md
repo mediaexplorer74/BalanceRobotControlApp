@@ -13,7 +13,9 @@ BalanceRobotControl UWP App. Some Balancing Robot Controller. RnD only.
 - bluetoothName = "RNBT-6DD3"
 
 ## My 2 cents
+
 Transformed / Ported from WP 8.1 onto UWP 10.0.
+
 UI adapted for Win 10 Mobile a little. 
 
 ## References
